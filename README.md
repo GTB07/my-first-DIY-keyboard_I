@@ -16,3 +16,6 @@ my first ever PCB, CAD software and Firmware project i have ever built so i hope
 | **Keycaps** | ISO Layout Keycap Set | 1 | [Link](#) |
 | **Hardware / Misc** | M2/M3 Screws & Threaded Inserts | 1 pack | [Link](#) |
 | **Case & Plate** | 3D Printed Case & Custom Plate | 1 | Self-printed |
+
+
+<img width="1366" height="913" alt="image" src="https://github.com/user-attachments/assets/5e935235-14c6-4976-82e6-61fffcec2806" />
